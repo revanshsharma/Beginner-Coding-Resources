@@ -38,8 +38,18 @@ New to coding? Follow this path:
 - [Learning roadmap](#-learning-roadmap)
 - [Beginner glossary](#-beginner-glossary)
 - [Common beginner mistakes](#-common-beginner-mistakes)
+- [Project ideas](projects/README.md)
+- [Extra resources](resources/README.md)
 - [Put a project on GitHub](#️-put-a-project-on-github)
 - [Useful learning sites](#-useful-learning-sites)
+
+## 🤝 Join the project
+
+This guide is made for beginners and improved by people learning together.
+
+- Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a change.
+- Follow the welcoming standards in [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+- This project is available under the [MIT License](LICENSE).
 
 ## 📦 What is in this pack?
 
@@ -236,6 +246,8 @@ Computer and terminal basics
 ```
 
 Learn one language at a time. Build small things such as a calculator, quiz, to-do list, personal webpage, or file organiser before moving to a larger framework.
+
+For guided practice ideas, see [projects/README.md](projects/README.md). For cheat sheets and documentation links, see [resources/README.md](resources/README.md).
 
 ## 📖 Beginner glossary
 
