@@ -27,3 +27,6 @@ cmake-build-*/
 # Operating system files
 Thumbs.db
 Desktop.ini
+
+# Original source artwork; the optimized transparent PNG is published instead
+zero (1).jpeg

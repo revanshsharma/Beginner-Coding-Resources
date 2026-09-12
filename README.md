@@ -365,3 +365,9 @@ Use one main course at a time, then build a small project with what you learned.
 This starter pack was prepared by **[Revansh Sharma](https://www.linkedin.com/in/revansh-sharma-836286347/), Founder @ ZeroTheory**.
 
 The goal is simple: remove unnecessary gatekeeping, set up the tools, and start building.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/revansh-sharma-836286347/">
+    <img src="assets/zerotheory-footer.png" width="330" alt="Level Up ZeroTheory" />
+  </a>
+</p>
