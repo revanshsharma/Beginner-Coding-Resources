@@ -34,6 +34,7 @@ New to coding? Follow this path:
 - [What is in this pack?](#-what-is-in-this-pack)
 - [Recommended setup order](#-recommended-setup-order)
 - [VS Code extensions](#-vs-code-extensions)
+- [Visual walkthrough](#-visual-walkthrough)
 - [Your first practice projects](#-your-first-practice-projects)
 - [Learning roadmap](#-learning-roadmap)
 - [Beginner glossary](#-beginner-glossary)
@@ -189,6 +190,31 @@ Open the Extensions view in VS Code with `Ctrl+Shift+X`, search for each extensi
 - Search the VS Code Marketplace for `MSYS2`, `Cygwin`, or `MinGW` integrations and check the publisher before installing.
 
 > Extensions can change publishers or availability. If a marketplace link does not open, search the exact extension name in VS Code and check its publisher before installing.
+
+## 🖼️ Visual walkthrough
+
+These screenshots come from the official VS Code and GitHub documentation. They show the kind of interface you will use while learning; your installed versions may look slightly different.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://code.visualstudio.com/docs/editing/codebasics#_search-across-files">
+        <img src="https://code.visualstudio.com/assets/docs/editing/codebasics/search.png" width="420" alt="VS Code Search view showing results across project files" />
+      </a>
+      <br />
+      <strong>VS Code workspace search</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://docs.github.com/en/get-started/start-your-journey/hello-world#step-1-create-a-repository">
+        <img src="https://docs.github.com/assets/images/help/repository/create-repository-name.png" width="420" alt="GitHub repository creation form with a repository name" />
+      </a>
+      <br />
+      <strong>Creating a GitHub repository</strong>
+    </td>
+  </tr>
+</table>
+
+Read the [VS Code editing guide](https://code.visualstudio.com/docs/editing/codebasics) and GitHub's [Hello World tutorial](https://docs.github.com/en/get-started/start-your-journey/hello-world) for the complete walkthroughs.
 
 ## 🧪 Your first practice projects
 
