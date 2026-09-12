@@ -1,0 +1,29 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# C and C++ build output
+*.exe
+*.out
+*.o
+build/
+cmake-build-*/
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Operating system files
+Thumbs.db
+Desktop.ini

@@ -17,6 +17,30 @@
   <a href="https://www.linkedin.com/in/revansh-sharma-836286347/"><img src="https://img.shields.io/badge/LinkedIn-Revansh%20Sharma-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn: Revansh Sharma" /></a>
 </p>
 
+## 🧭 Start here
+
+New to coding? Follow this path:
+
+- [ ] Install VS Code
+- [ ] Install Git and create a GitHub account
+- [ ] Choose Python, JavaScript, or C++ as your first language
+- [ ] Install the matching tool and VS Code extensions
+- [ ] Run an example from the [`examples/`](examples/) folder
+- [ ] Create a small project of your own
+- [ ] Push your project to GitHub
+
+## 📑 Contents
+
+- [What is in this pack?](#-what-is-in-this-pack)
+- [Recommended setup order](#-recommended-setup-order)
+- [VS Code extensions](#-vs-code-extensions)
+- [Your first practice projects](#-your-first-practice-projects)
+- [Learning roadmap](#-learning-roadmap)
+- [Beginner glossary](#-beginner-glossary)
+- [Common beginner mistakes](#-common-beginner-mistakes)
+- [Put a project on GitHub](#️-put-a-project-on-github)
+- [Useful learning sites](#-useful-learning-sites)
+
 ## 📦 What is in this pack?
 
 This folder includes Windows installers and notes to help you begin:
@@ -188,6 +212,54 @@ g++ main.cpp -o main.exe
 
 For HTML, open `index.html` in a browser or use a local preview extension in VS Code.
 
+Working examples are available in [`examples/`](examples/):
+
+- [`hello.py`](examples/hello.py) - Python
+- [`hello.js`](examples/hello.js) - JavaScript
+- [`index.html`](examples/index.html) - HTML and CSS
+- [`hello.cpp`](examples/hello.cpp) - C++
+
+## 🗺️ Learning roadmap
+
+```text
+Computer and terminal basics
+      ↓
+  Python or JavaScript
+      ↓
+    Git and GitHub
+      ↓
+    HTML and CSS
+      ↓
+    Small projects
+      ↓
+ Data structures and algorithms
+```
+
+Learn one language at a time. Build small things such as a calculator, quiz, to-do list, personal webpage, or file organiser before moving to a larger framework.
+
+## 📖 Beginner glossary
+
+| Term | Simple meaning |
+| --- | --- |
+| **Editor** | An app for writing code, such as VS Code. |
+| **Terminal** | A text-based window where you run commands. |
+| **Compiler** | A tool that turns C or C++ source code into a program. |
+| **Runtime** | Software that runs a program, such as Node.js for JavaScript. |
+| **Extension** | An add-on that gives VS Code more features. |
+| **Repository** | A project folder tracked by Git. |
+| **Commit** | A saved checkpoint in Git history. |
+| **Push** | Upload local commits to a remote repository such as GitHub. |
+| **PATH** | Windows locations where it searches for commands. |
+
+## 🩹 Common beginner mistakes
+
+- **The command is not recognised:** close and reopen the terminal after installation, then check `PATH`.
+- **The wrong Python runs:** use **Python: Select Interpreter** in VS Code.
+- **The file will not run:** check that its extension is correct, such as `.py`, `.js`, or `.cpp`.
+- **The terminal is in the wrong folder:** use `cd` or open the project folder directly in VS Code.
+- **A program does nothing:** add a small `print`, `console.log`, or output statement to check what runs.
+- **Secrets are exposed:** never commit passwords, API keys, or private tokens. Add them to `.gitignore` or use environment variables.
+
 ## ☁️ Put a project on GitHub
 
 1. Create an empty repository on [GitHub](https://github.com/new). Give it a name such as `hello-python`.
@@ -235,6 +307,12 @@ Use one main course at a time, then build a small project with what you learned.
 | `Win+G` | Open Xbox Game Bar |
 | `Win+.` | Open the emoji panel |
 | `Win+V` | Open clipboard history |
+| `Ctrl+Shift+P` | Open the VS Code Command Palette |
+| `Ctrl+P` | Find and open a file in VS Code |
+| ``Ctrl+` `` | Open or close the VS Code terminal |
+| `F5` | Start debugging |
+| `Shift+Alt+F` | Format the current document |
+| `Ctrl+/` | Comment or uncomment a line |
 
 ## 🩹 Troubleshooting checklist
 
