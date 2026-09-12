@@ -14,6 +14,7 @@
   <a href="https://github.com/"><img src="https://img.shields.io/badge/code-GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/runtime-Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://www.linkedin.com/in/revansh-sharma-836286347/"><img src="https://img.shields.io/badge/LinkedIn-Revansh%20Sharma-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn: Revansh Sharma" /></a>
 </p>
 
 ## 📦 What is in this pack?
@@ -245,6 +246,6 @@ Use one main course at a time, then build a small project with what you learned.
 
 ## 💬 A note from the original guide
 
-This starter pack was prepared by **Revansh Sharma, Founder @ ZeroTheory**.
+This starter pack was prepared by **[Revansh Sharma](https://www.linkedin.com/in/revansh-sharma-836286347/), Founder @ ZeroTheory**.
 
 The goal is simple: remove unnecessary gatekeeping, set up the tools, and start building.
